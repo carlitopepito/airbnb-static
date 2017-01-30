@@ -1,0 +1,22 @@
+/* Card design */
+.card {
+  position: relative;
+  height:250px;
+  border-radius: 5px;
+  color: white;
+  background-size: cover !important;
+  margin: 10px 0;
+}
+.card-user {
+  top: 10px;
+  right: 10px;
+}
+.card-category {
+  position: absolute;
+  padding: 10px;
+}
+.card-description {
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+}
